@@ -1,0 +1,28 @@
+h1{
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 80px;
+ 
+  color: azure;
+}
+.container,.row{
+    height: 100vh;
+}
+body{
+    background-color: rgb(202, 142, 142);
+}
+h3{
+    color: rgb(209, 198, 198);
+
+}
+button{
+    background-color: rgb(91, 49, 49);
+}
+button:hover{
+    background-color: rgb(51, 38, 38);
+}
+h2{
+        font-family: "Raleway", sans-serif;
+        font-weight: 800;
+        color: azure;
+}
